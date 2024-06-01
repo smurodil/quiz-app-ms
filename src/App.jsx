@@ -1,7 +1,7 @@
 import { createBrowserRouter, RouterProvider } from "react-router-dom"
 import RootLayout from "./layout/RootLayout"
 import { Home, Error, Quiz,  FinishedScreen } from './pages'
-import { loader as HomeLoader } from "./components/header";
+import { loader as HomeLoader } from "./components/Header";
 
 
 
